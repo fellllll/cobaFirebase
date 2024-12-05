@@ -14,13 +14,13 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Masukkan Nama Provinsi"
+        android:hint="Masukkan Nama Provinsi"
         android:id="@+id/etProvinsi"/>
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Masukkan Nama Ibu Kota"
+        android:hint="Masukkan Nama Ibu Kota"
         android:id="@+id/etIbukota"/>
 
     <Button
